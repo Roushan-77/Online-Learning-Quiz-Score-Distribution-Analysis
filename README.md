@@ -84,7 +84,7 @@ An interactive dashboard was developed using Gradio to allow users to upload the
 ---
 
 ## Project structure
-sh``
+
 online-learning-quiz-score-distribution-analysis/
 │
 ├── images/
@@ -94,7 +94,7 @@ online-learning-quiz-score-distribution-analysis/
 ├── requirements.txt
 ├── student_performance.csv
 └── student_performance.ipynb
-``
+
 
 ---
 
@@ -107,4 +107,4 @@ This project demonstrates how descriptive statistics and exploratory data analys
 ## Important commands
 
 1. clone this repo
-sh``git clone https://github.com/Roushan-77/Online-Learning-Quiz-Score-Distribution-Analysis.git``
+```bash git clone https://github.com/Roushan-77/Online-Learning-Quiz-Score-Distribution-Analysis.git```
