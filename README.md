@@ -9,7 +9,7 @@ This project presents a **statistical analysis** of student performance data col
 Gradio Dashboard (Live Demo): [Score Distribution dashboard](https://huggingface.co/spaces/roushan77/online-learning-score-analysis)
 
 ### Blog Post
-Detailed Blog Explanation (Medium): [will bed added soon](https://github.com/Roushan-77/Online-Learning-Quiz-Score-Distribution-Analysis.git)
+Detailed Blog Explanation (Medium): [Click here for the detailed blog](https://medium.com/@roushan771042/online-learning-quiz-score-distribution-analysis-4e6b14a97827?postPublishedType=initial)
 
 ### Objectives
 **The objectives of this project are**:
