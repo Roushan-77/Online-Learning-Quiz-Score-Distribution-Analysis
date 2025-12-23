@@ -111,3 +111,7 @@ This project demonstrates how descriptive statistics and exploratory data analys
 ```sh
 git clone https://github.com/Roushan-77/Online-Learning-Quiz-Score-Distribution-Analysis.git
 ```
+2. Install all requirements
+```sh
+pip install -r requirements.txt
+```
